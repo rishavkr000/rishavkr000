@@ -1,4 +1,4 @@
-Hi 👋 My name is Rishav Kumar
+<!-- Hi 👋 My name is Rishav Kumar
 =============================
 
 * 🌍  I'm based in India
@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/rishavkr000?logo=github&style=for-t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/rishavkr000/rishavkr000" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rishavkr000&repo=rishavkr000&title_color=facc15&text_color=10b981&icon_color=ef4444&bg_color=831843&hide_border=true&locale=en" /></a><a href="https://github.com/rishavkr000/uranium" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rishavkr000&repo=uranium&title_color=facc15&text_color=10b981&icon_color=ef4444&bg_color=831843&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/rishavkr000/rishavkr000" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rishavkr000&repo=rishavkr000&title_color=facc15&text_color=10b981&icon_color=ef4444&bg_color=831843&hide_border=true&locale=en" /></a><a href="https://github.com/rishavkr000/uranium" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rishavkr000&repo=uranium&title_color=facc15&text_color=10b981&icon_color=ef4444&bg_color=831843&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> -->
 
 <h1 align="center">Hi 👋, I'm Rishav Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
